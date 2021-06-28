@@ -7,4 +7,8 @@ print("Stop loss:")
 SL = input()
 print("Risk:")
 R = input()
-print("Position Size =",int(R)/int(EP)-int(SL))
+m = int(EP)-int(SL)
+print("Position Size =",int(R)/m )
+#this would be my first self tought project
+#i wanna thank me and my curious mind
+
