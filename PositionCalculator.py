@@ -12,3 +12,4 @@ print("Position Size =",int(R)/m )
 #this would be my first self tought project
 #i wanna thank me and my curious mind
 #this is a test
+#test
